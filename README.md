@@ -12,7 +12,7 @@ This is a web application deployed to heroku (link below) using Express.js to cr
 To install, clone the GitHub repository and use 'npm install' command in the terminal to install the necessary dependencies for the project. Go to below Heroku link to use the application without cloning.
 
 ## Usage
-Use 'npm start' in command line to initiate a web server and go to 'localhost:3001' in browser to view. Link below to live Heroku app provides same functionality.
+Use 'npm start' in command line to initiate a web server and go to 'localhost:3001' in browser to view. Link to live Heroku app provides same functionality: https://protected-castle-28894.herokuapp.com/.
 
 ## Questions
 If you have any questions or to see other projects I've done, view my GitHub page here: https://github.com/chaldrich24.
