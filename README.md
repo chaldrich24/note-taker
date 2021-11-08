@@ -1,7 +1,7 @@
 # Note Taker
   
 ## Description
-This is a web application deployed to heroku (link below) using Express.js to create a back-end web server that stores the notes data and routes to display pages and accept user interaction.
+This is a web application deployed to Heroku (link below) using Express.js to create a back-end web server that stores the notes data and routes to display pages and accept user interaction.
 
 ## Table of Contents
 * [Installation](#installation)
